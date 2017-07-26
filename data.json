@@ -1,0 +1,22 @@
+{
+  "fruits": [
+  {
+    "name": "Grapefruit",
+    "genus": "Citrus",
+    "season": "October-April",
+    "photo": "images/fruits01.jpg"
+  },
+  {
+    "name": "Pineapple",
+    "genus": "Ananas",
+    "season": "April-May",
+    "photo": "images/fruits02.jpg"
+  },
+  {
+    "name": "Papaya",
+    "genus": "Caricaceae",
+    "season": "All Year",
+    "photo": "images/fruits03.jpg"
+  }
+  ]
+}
